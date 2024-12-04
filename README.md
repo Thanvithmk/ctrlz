@@ -1,2 +1,3 @@
 # ctrlz
 Optimizing Climate-Resilient Agricultural Practices Using Al
+Climate change poses significant challenges to traditional agricultural practices, making them increasingly unsustainable and vulnerable to failure. This project focuses on developing an AI-powered system that leverages data analysis to predict the most suitable crops and farming techniques for specific regions. By integrating insights on soil quality, climate conditions, and crop resilience, the system aims to support farmers in making informed decisions. The ultimate goal is to enhance food security, promote sustainable farming practices, and contribute to global climate action efforts, paving the way for a more resilient agricultural future
